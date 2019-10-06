@@ -1,0 +1,24 @@
+{
+  "name": "QuickLearn_JavaScript",
+  "version": "1.0.0",
+  "description": "QuickLearn - JavaScript Code Samples",
+  "main": "index.js",
+  "dependencies": {
+    "eslint": "^6.5.1"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/supreeth-spiger/QuickLearn_JavaScript.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/supreeth-spiger/QuickLearn_JavaScript/issues"
+  },
+  "homepage": "https://github.com/supreeth-spiger/QuickLearn_JavaScript#readme"
+}
